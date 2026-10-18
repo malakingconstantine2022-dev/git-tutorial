@@ -16,3 +16,12 @@ This modification is prepared on a new branch.
 ## Git Push to GitHub
 
 This section demonstrates how to push local changes to GitHub.
+## GitHub Flow
+
+This section demonstrates the GitHub Flow workflow.
+
+- Create a new branch.
+- Make changes and commit them.
+- Open a pull request.
+- Review and merge the changes.
+ نسخ النص
