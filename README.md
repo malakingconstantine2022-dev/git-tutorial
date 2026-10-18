@@ -13,3 +13,6 @@ The file was modified directly from the GitHub web interface.
 ## Changes on a separate branch
 
 This modification is prepared on a new branch.
+## Git Push to GitHub
+
+This section demonstrates how to push local changes to GitHub.
